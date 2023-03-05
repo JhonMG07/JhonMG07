@@ -1,4 +1,4 @@
-# (https://pbs.twimg.com/profile_images/1621220732519829504/TVBqlZVH_400x400.jpg) Hola, mi nombre es Jhon Meza 👋
+# !(https://pbs.twimg.com/profile_images/1621220732519829504/TVBqlZVH_400x400.jpg) Hola, mi nombre es Jhon Meza 👋
 
 <!--
 **JhonMG07/JhonMG07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
