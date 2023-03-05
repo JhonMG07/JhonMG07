@@ -1,4 +1,4 @@
-# [FotoPerfil] (/foto.png)Hola, mi nombre es Jhon Meza 👋
+# ![FotoPerfil](/foto.jpg)Hola, mi nombre es Jhon Meza 👋
 
 <!--
 **JhonMG07/JhonMG07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
