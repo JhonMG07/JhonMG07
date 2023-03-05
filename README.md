@@ -1,7 +1,11 @@
-# ![FotoPerfil](/Foto.jpg) 
-<img src="/Foto.jpg" alt="Texto alternativo" width="50" height="50">
+#<img src="/Foto.jpg" alt="Texto alternativo" width="50" height="50"> Hola, mi nombre es Jhon Meza 👋
 
-Hola, mi nombre es Jhon Meza 👋
+### Freelance full-stack engineer developer Junior
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/JhonMeza07)
+![GitHub Followers](https://img.shields.io/github/followers/JhonMG07?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/JhonMG07?style=social)
 
 <!--
 **JhonMG07/JhonMG07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
