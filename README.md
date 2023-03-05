@@ -1,9 +1,9 @@
-#<img src="/Foto.jpg" alt="Texto alternativo" width="50" height="50"> Hola, mi nombre es Jhon Meza 👋
+<img src="/Foto.jpg" alt="Texto alternativo" width="50" height="50"> #Hola, mi nombre es Jhon Meza 👋
 
 ### Freelance full-stack engineer developer Junior
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/JhonMeza07)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JhonMG07?style=social)](https://twitter.com/JhonMeza07)
 ![GitHub Followers](https://img.shields.io/github/followers/JhonMG07?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/JhonMG07?style=social)
 
