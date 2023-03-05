@@ -1,4 +1,7 @@
-# ![FotoPerfil](/Foto.jpg) Hola, mi nombre es Jhon Meza 👋
+# ![FotoPerfil](/Foto.jpg) 
+<img src="/Foto.jpg" alt="Texto alternativo" width="50" height="50">
+
+Hola, mi nombre es Jhon Meza 👋
 
 <!--
 **JhonMG07/JhonMG07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
