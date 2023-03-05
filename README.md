@@ -1,5 +1,5 @@
 <img src="/Foto.jpg" alt="Texto alternativo" width="50" height="50"> 
-# Hola, mi nombre es Jhon Meza 👋
+### Hola, mi nombre es Jhon Meza 👋
 
 ### Freelance full-stack engineer developer Junior
 
