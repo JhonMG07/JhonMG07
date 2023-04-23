@@ -33,6 +33,7 @@ Me apasiona la programación y el desarrollo de software, y estoy emocionado por
 Actualmente me destaco en:<br>
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010) ]()
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 </br>
