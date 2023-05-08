@@ -1,7 +1,7 @@
 <img src="/Foto.jpg" alt="Texto alternativo" width="50" height="50"> </img> 
 ## Hola, mi nombre es Jhon Meza 👋
 
-### Freelance full-stack engineer developer Junior
+### Intern in IOET | Engineer developer Junior
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JhonMG07?style=social)](https://twitter.com/JhonMeza07)
