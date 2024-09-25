@@ -1,4 +1,4 @@
-<img src="/Foto.jpg" alt="Texto alternativo" width="50" height="50"> </img> 
+
 ## Hola, mi nombre es Jhon Meza 👋
 
 ### Intern in IOET | Engineer developer Junior
