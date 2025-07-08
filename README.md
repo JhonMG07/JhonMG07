@@ -1,7 +1,7 @@
 
 ## Hola, mi nombre es Jhon Meza 👋
 
-### Intern in IOET | Engineer developer Junior
+### Full Stack in Trade EC | Engineer developer Junior
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JhonMG07?style=social)](https://twitter.com/JhonMeza07)
