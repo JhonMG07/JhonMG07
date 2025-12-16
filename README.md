@@ -8,13 +8,13 @@
 ![GitHub Followers](https://img.shields.io/github/followers/JhonMG07?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jhon-meza07/)
 
-¡Hola! Soy un desarrollador de software ssr con un gran interés en la ingeniería de software. Actualmente estoy estudiando en la Escuela Politécnica Nacional en Quito, Ecuador, donde he estado adquiriendo habilidades en diferentes lenguajes de programación y tecnologías.
+Hello! I am a Software Engineer with a strong interest in software engineering principles and high-quality development practices. I graduated from Escuela Politécnica Nacional in Quito, Ecuador, where I built a solid foundation in software development, programming languages, and modern technologies.
 
-Como programador, me esfuerzo por mantener buenas prácticas de programación y estar actualizado con las últimas tendencias y tecnologías. He trabajado con diferentes lenguajes de programación, como Node.js, React.js, Java, C++ y C. También he trabajado con diferentes sistemas gestores de bases de datos, como SQL Server, MongoDB y PostgreSQL.
+As a developer, I am committed to clean code, good engineering practices, and continuous learning. I have hands-on experience working with technologies such as Node.js, React.js, Java, C++, and C, as well as database management systems including SQL Server, MongoDB, and PostgreSQL.
 
-Me apasiona la programación y el desarrollo de software, y estoy emocionado por seguir aprendiendo y creciendo como desarrollador de software. Estoy buscando oportunidades para aplicar mis habilidades y conocimientos en proyectos desafiantes y emocionantes.
+I am passionate about software development and enjoy tackling challenging problems that allow me to grow both technically and professionally. I am actively seeking opportunities to apply my skills in impactful projects and collaborate with teams that value quality, scalability, and innovation.
 
-¡Gracias por visitar mi perfil de GitHub! Estoy emocionado por colaborar en proyectos y aprender de la comunidad de GitHub. Siéntete libre de contactarme si tienes alguna pregunta o si deseas colaborar en un proyecto juntos.
+Thank you for visiting my GitHub profile. I am always open to collaboration, knowledge sharing, and new challenges. Feel free to reach out if you would like to work together or have any questions.
 
 Actualmente me destaco en:<br>
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010) ]()
